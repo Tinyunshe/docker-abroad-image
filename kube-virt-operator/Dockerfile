@@ -1,1 +1,0 @@
-FROM index.docker.io/kubevirt/virt-operator@sha256:4537e45d8f09d52ce202d53b368f34ab6744c06c11519f5219457a339355259e
