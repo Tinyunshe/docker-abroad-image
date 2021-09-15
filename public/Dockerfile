@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/sig-storage/csi-resizer:v1.1.0
+FROM dellemc/csi-unity:v1.6.0
